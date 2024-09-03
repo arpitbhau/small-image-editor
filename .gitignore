@@ -2,6 +2,10 @@
 
 node_modules/
 test*
+*.rar
+*.zip
+*.7z
+server
 
 # npm
 node_modules
