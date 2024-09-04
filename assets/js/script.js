@@ -13,6 +13,12 @@ function lenis() {
   });
 }
 
+function lImgAnimation() {
+    Shery.imageEffect(".lImg img" , {style: 6 , debug: true})
+}
+
+lImgAnimation()
+
 lenis()
 
-Shery.mouseFollower();
+
